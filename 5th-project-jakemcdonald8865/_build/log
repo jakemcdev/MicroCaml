@@ -1,0 +1,24 @@
+# dune utop src
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/jakemcdonald/.cache/dune/db
+# Workspace root:
+# /Users/jakemcdonald/cmsc330spring24/5th-project-jakemcdonald8865
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/jakemcdonald/cmsc330spring24/5th-project-jakemcdonald8865/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/jakemcdonald/.opam/4.14.0/bin/ocamlc.opt -config > /var/folders/dc/0qp6hh110db4hpg9c_zd04bm0000gp/T/dune_6908f0_output
